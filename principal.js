@@ -1,3 +1,4 @@
+setInterval(trocaBanner, 1000);
 var banners = ["Os mlehores do Brasil!", "Qualidade e preço baixo!"];
 var banner Atual = 0;
 
